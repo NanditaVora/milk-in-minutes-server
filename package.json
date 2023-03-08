@@ -1,0 +1,14 @@
+{
+    "name": "milk-in-minutes-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "json:server": "json-server -w db.json"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "^0.17.0"
+    }
+  }
