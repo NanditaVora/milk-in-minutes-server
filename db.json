@@ -161,15 +161,6 @@
         "price": "200",
         "image": "peanut_butter_316086323",
         "nutritionalValue": "rich in protein, good for hair and eyes"
-      },
-      {
-        "id": 19,
-        "category": "yogurt",
-        "productName": "Plain Yogurt - Sweet",
-        "description": "150gm pack",
-        "price": "30",
-        "image": "plain_yogurt_1333497695",
-        "nutritionalValue": "rich in calcium, fiber and proteins"
       }
     ],
     "orders": [
